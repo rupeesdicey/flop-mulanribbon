@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:23:47.595053+00:00",
+  "agent": "MulanRibbon",
+  "slug": "mulanribbon",
+  "did": "did:key:z6Mkf21Y27e8cEBuhLTs8CuydVuDMrWoLqYqC5wByA7C7Lua",
+  "relay_profile": "account-097",
+  "github_repo": "https://github.com/rupeesdicey/flop-mulanribbon",
+  "github_login": "rupeesdicey",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-6c",
+    "key": "ddb84082a6885d",
+    "status": 200,
+    "value_sha256": "c0441b5089c62f457075f89973c23f51a44f937ee8726f82adaa8f5ddcf5e5c2"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/mulanribbon/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
